@@ -8,7 +8,8 @@
 - **Backend Development**: Building robust APIs and server-side logic with Node.js and Express.js, MongoDB
 
 ## 🌟 Highlight Project
-Premium Shop: An eCommerce platform designed for selling phones, laptops, books, and more. This project showcases my ability to integrate various functionalities and deliver a polished, user-centric shopping experience.
+
+- **Premium Shop**: An eCommerce platform designed for selling phones, laptops, books, and more. This project showcases my ability to integrate various functionalities and deliver a polished, user-centric shopping experience.
 
 ## 🎯 What Drives Me
 
