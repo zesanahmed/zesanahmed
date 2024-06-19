@@ -7,6 +7,9 @@
 - **Frontend Development**: Creating responsive and engaging user interfaces with React JS, Javascript, ES6, HTML5, CSS3, Bootstrap, TailwindCSS
 - **Backend Development**: Building robust APIs and server-side logic with Node.js and Express.js, MongoDB
 
+## 🌟 Highlight Project
+Premium Shop: An eCommerce platform designed for selling phones, laptops, books, and more. This project showcases my ability to integrate various functionalities and deliver a polished, user-centric shopping experience.
+
 ## 🎯 What Drives Me
 
 I'm driven by the excitement of implementing the latest features and trends in web development, ensuring a delightful user experience through intuitive UI/UX design. I thrive on solving complex problems and continuously learning to stay ahead in the ever-evolving tech landscape.
