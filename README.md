@@ -1,3 +1,5 @@
+<img align="center" src="https://github.com/zesanahmed/zesanahmed/blob/main/assets/ZESAN%20(1).png" alt="Zesan's Cover" width="100%" />
+
 <h1 align="center">Hi there! 👋, I'm Zesan</h1>
 
 
