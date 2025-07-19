@@ -35,7 +35,7 @@ Currently expanding my skills and seeking opportunities to work on impactful pro
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zesanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="zesanahmed" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zesanahmed&" alt="zesanahmed" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zesanahmed&" alt="zesanahmed" /></p>
 
 
 
