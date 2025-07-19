@@ -1,7 +1,10 @@
-<img align="center" src="https://github.com/zesanahmed/zesanahmed/blob/main/assets/ZESAN%20(1).png" alt="Zesan's Cover" width="100%" />
+<img align="center" src="https://github.com/zesanahmed/zesanahmed/blob/main/assets/ZESAN%20(2).png" alt="Zesan's Cover" width="100%" />
 
 <h1 align="center">Hi there! 👋, I'm Zesan</h1>
 
+Hi, I'm **Zesan**, a passionate MERN Stack Developer from Bangladesh 🇧🇩.  
+I love building clean, responsive, and user-focused web applications.  
+Currently expanding my skills and seeking opportunities to work on impactful projects.
 
 - 🔭 I’m currently working on [Premium-Shop](https://premium-shop.vercel.app/)
 
