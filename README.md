@@ -1,16 +1,5 @@
 <h1 align="center">Hi there! 👋, I'm Zesan</h1>
 
-👋  I'm a passionate MERN stack web developer dedicated to crafting dynamic and user-friendly web applications. My expertise spans both frontend and backend development, leveraging the power of React, Node.js, and Express.js to build seamless, full-stack solutions.
-
-## 🚀 What I Do
-
-- **Frontend Development**: Creating responsive and engaging user interfaces with React JS, Javascript, ES6, HTML5, CSS3, Bootstrap, TailwindCSS
-- **Backend Development**: Building robust APIs and server-side logic with Node.js and Express.js, MongoDB
-
-## 🌟 Highlight Project
-
-- **Premium Shop**: An eCommerce platform designed for selling phones, laptops, books, and more. This project showcases my ability to integrate various functionalities and deliver a polished, user-centric shopping experience.
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zesanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="zesanahmed" /> </p>
 
